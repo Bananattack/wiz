@@ -1,3 +1,6 @@
+** (The official repo for Wiz has moved. This repo exists for legacy reasons. To follow recent changes to Wiz, please check out here instead: <https://github.com/wiz-lang/wiz>) **
+====================================================================================
+
 wiz
 ===
 
